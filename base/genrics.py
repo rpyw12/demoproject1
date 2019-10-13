@@ -4,6 +4,7 @@ import logging
 class Genrics:
     def __init__(self,driver):
         self.driver=driver
+        a=10+10
 
     logging.basicConfig(filename='testlog', level=logging.INFO,
                         format="%(asctime)s: %(levelname)s: %(message)s")
