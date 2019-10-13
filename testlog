@@ -1,0 +1,12 @@
+2019-10-05 12:44:11,706: INFO: ('element with locator type ', 'id', ' and locator value ', 'username', 'is found'):
+2019-10-05 12:44:11,748: INFO: ('data ', 'admin', ' sent to the element with locator type ', 'id', ' with locator value ', 'username'):
+2019-10-05 12:44:11,755: INFO: ('element with locator type ', 'name', ' and locator value ', 'pwd', 'is found'):
+2019-10-05 12:44:11,785: INFO: ('data ', 'manage', ' sent to the element with locator type ', 'name', ' with locator value ', 'pwd'):
+2019-10-05 12:44:11,797: INFO: ('element with locator type ', 'id', ' and locator value ', 'loginButton', 'is found'):
+2019-10-05 12:44:12,359: INFO: ('clicked on a element with locator type ', 'id', ' and locator value ', 'loginButton'):
+2019-10-05 12:44:26,450: INFO: ('element with locator type ', 'id', ' and locator value ', 'username', 'is found'):
+2019-10-05 12:44:26,465: INFO: ('data ', 'admin', ' sent to the element with locator type ', 'id', ' with locator value ', 'username'):
+2019-10-05 12:44:26,470: INFO: ('element with locator type ', 'name', ' and locator value ', 'pwd', 'is found'):
+2019-10-05 12:44:26,484: INFO: ('data ', 'manager', ' sent to the element with locator type ', 'name', ' with locator value ', 'pwd'):
+2019-10-05 12:44:26,489: INFO: ('element with locator type ', 'id', ' and locator value ', 'loginButton', 'is found'):
+2019-10-05 12:44:28,089: INFO: ('clicked on a element with locator type ', 'id', ' and locator value ', 'loginButton'):
